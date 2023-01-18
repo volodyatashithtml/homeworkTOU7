@@ -1,0 +1,57 @@
+body{
+    margin: 0px auto;
+}
+.img_def1{
+    position: relative;
+}
+.img_def{
+    position: relative;
+    width: 5%;
+}
+.img4{
+    width: 991px;
+    height: 900px;
+    top: -950px;
+    left: -10px;
+}
+.img5{
+    top: -1500px;
+    left: -600px;
+}
+.img6{
+    top: -1350px;
+    left: -800px;
+}
+.img7{
+    top: -1409px;
+    left: -562px;
+}
+.img8{
+    top: -1200px;
+    left: -850px;
+}
+.img9{
+    top: -1100px;
+    left: -600px;
+}
+.img10{
+    top: -1070px;
+    left: -1250px;
+}
+.img{
+    position: relative;
+    width: 9%;
+}
+.img11{
+    top: -1000px;
+    left: 210px;
+}
+.img12{
+    top: -980px;
+    left: 5px;
+}
+.img13{
+    top: -1020px;
+    left: 210px;
+}
+
